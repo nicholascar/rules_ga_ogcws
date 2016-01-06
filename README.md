@@ -1,2 +1,2 @@
-# conformance_ogc
-A Conformance Service bot testing OGC services
+# Rules GA OGC Web Services
+A RuleSet for GA's OGC Web Services
